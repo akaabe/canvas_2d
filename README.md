@@ -1,6 +1,6 @@
 # canvas_2d
 
-Test project for rendering 2d food shelves. 
+Test project for rendering 2d food shelves using canvas. 
 
 
 ![alt tag](https://raw.githubusercontent.com/akaabe/canvas_2d/master/preview.jpg)
