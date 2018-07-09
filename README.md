@@ -1,8 +1,4 @@
 # canvas_2d
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Test project for rendering 2d food shelves. Used image:
+https://cdn7.bigcommerce.com/s-ib3khtau/images/stencil/1280x1280/products/76/30/New_bag_SILO_sm__17143.1490799842.png?c=2&imbypass=on
